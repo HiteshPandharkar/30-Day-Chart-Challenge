@@ -170,3 +170,16 @@ LinkedIn Post - https://www.linkedin.com/posts/hiteshpandharkar_30daychartchalle
 ![corr](https://user-images.githubusercontent.com/57567447/134975235-a9b9ffa3-a075-4b61-8d4b-2999ad608b32.png)
 
 
+## Day 14
+
+Daily Challenge - "Space". Exploring spatial relationships.
+
+Graph Used - A simple chart to show Hotelling's Hotelling's Model Of Spatial Competition and Nash Equilibrium.
+
+LinkedIn Post - https://www.linkedin.com/posts/hiteshpandharkar_30daychartchallenge-businessintelligence-activity-6848613609845612546-Gjvr
+
+
+
+![ae22472b2f0c2d7f3d6345a41e975800](https://user-images.githubusercontent.com/57567447/135150925-1ee3a6a9-1f03-4017-aaa0-3997fa3febc2.jpg)
+
+
